@@ -1,5 +1,4 @@
 ### Hi there 👋,soy Katy Huamani Tito  <img src = "https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width = "50">
-
 <div align ="center">
 <a href="https://ibb.co/p4Fx04Y"><img src="https://i.ibb.co/Yfs3RfH/perfil-github.png" alt="perfil-github" border="5"></a>
 </div>
@@ -13,12 +12,11 @@
 - 🌱 I am always learning new things
 - 👯 I seek to collaborate on individual and business projects
 - 💬 Ask me about anything ... ❓
-- 📫 How to reach me: HuamaniTitoKaty@gmail.com
+- 📫 How to reach me: katyhuamanitito1@gmail.com
 - 😄 Pronouns: Kat 
 - ⚡ Fun fact: I am a cat lover and I like sewing
 
 ## Find me on
 
-- Gmail    HuamaniTitoKaty@gmail.com 📹 
+- Gmail    katyhuamanitito1@gmail.com 📹 
 - <a href="https://www.linkedin.com/in/katy-lurdes/"> LinkedIn</a> 
-
